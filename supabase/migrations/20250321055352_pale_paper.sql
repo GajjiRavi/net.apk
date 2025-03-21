@@ -1,0 +1,6 @@
+INSERT INTO MOVIE (title, image_url, category, description) VALUES
+('Stranger Things', 'https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?auto=format&fit=crop&w=500&q=80', 'trending', 'When a young boy vanishes, a small town uncovers a mystery involving secret experiments.'),
+('The Witcher', 'https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&w=500&q=80', 'trending', 'Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world.'),
+('Breaking Bad', 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=500&q=80', 'popular', 'A high school chemistry teacher turned methamphetamine manufacturer partners with a former student.'),
+('The Crown', 'https://images.unsplash.com/photo-1616530940355-351fabd9524b?auto=format&fit=crop&w=500&q=80', 'new', 'Follows the political rivalries and romance of Queen Elizabeth II''s reign.'),
+('Dark', 'https://images.unsplash.com/photo-1585951237318-9ea5e175b891?auto=format&fit=crop&w=500&q=80', 'popular', 'A family saga with a supernatural twist, set in a German town where the disappearance of two young children.');
